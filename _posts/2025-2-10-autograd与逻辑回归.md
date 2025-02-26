@@ -236,7 +236,7 @@ $$
 
 $f(z)$ 称为 **sigmoid 函数**，也被称为 **Logistic 函数**。函数曲线如下：（横坐标是 $z$，而 $z = WX + b$，纵坐标是 $y$）
 
-<img src="/assets/img/img/img/img/image-20250211172729610.png" alt="image-20250211172729610" style="zoom: 50%;" />
+<img src="/assets/img/image-20250211172729610.png" alt="image-20250211172729610" style="zoom: 50%;" />
 
 分类原则如下：
 
